@@ -1,0 +1,3 @@
+##  Lack Of Tech Knowledge
+
+ES6, Transpilers, Minifiers, Reactive Programming, etc...

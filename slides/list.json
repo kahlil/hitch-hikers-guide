@@ -70,6 +70,13 @@
         }
     },
     {
+        "filename": "42.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "no-checklist-sorry.md",
         "attr": {
             "data-background": "img/02.jpg",

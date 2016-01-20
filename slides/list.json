@@ -7,6 +7,55 @@
         }
     },
     {
+        "filename": "who-we-are.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "descriptive.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "reactive.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "the-book.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "the-book-a.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "the-book-b.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "open-to-talk.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "ever-expanding-galaxy.md",
         "attr": {
             "data-background": "img/02.jpg",

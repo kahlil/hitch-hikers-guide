@@ -1,3 +1,3 @@
 ##  Mostly Non-Technical Deciding Factors
 
-Like: What Are Your Feelz?
+Like: what are your feelz?

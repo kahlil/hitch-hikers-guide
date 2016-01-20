@@ -78,13 +78,16 @@ module.exports = (grunt) ->
                 files: [{
                     expand: true
                     src: [
+                        '.surgeignore'
                         'slides/**'
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
-                        'resources/**',
-                        'img/02.jpg',
-                        '.surgeignore'
+                        'resources/**'
+                        'img/02.jpg'
+                        'img/descriptive.png'
+                        'img/reactive.jpg'
+                        'img/douglas.jpg'
                     ]
                     dest: 'dist/'
                 },{

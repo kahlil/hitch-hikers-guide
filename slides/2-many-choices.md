@@ -1,3 +1,3 @@
 ##  2 Many Choices
 
-May Lead 2 Choice Paralysis
+May lead 2 choice paralysis

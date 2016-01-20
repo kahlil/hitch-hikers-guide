@@ -1,3 +1,3 @@
 ## Ever-Expanding Galaxy
 
-Of JavaScript Frameworks
+Of JavaScript frameworks

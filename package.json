@@ -26,6 +26,7 @@
   "scripts": {
     "test": "grunt test",
     "deploy": "grunt dist && surge dist hitch-hikers-guide.surge.sh",
-    "teardown": "surge teardown hitch-hikers-guide.surge.sh"
+    "teardown": "surge teardown hitch-hikers-guide.surge.sh",
+    "start": "grunt serve"
   }
 }

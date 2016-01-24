@@ -1,7 +1,7 @@
 ## We
 
-Zaphod Glatter-Brox & Kahlil Prefect.
+Henning Glatter-Brox & Kahlil Prefect.
 
-Developers.
+Developers from Alpha Centauri.
 
-Authors of the incredibly successful book The Hitch Hiker's Guide To JavaScript Frameworks.
+Authors of the incredibly successful book The Hitch Hiker's Guide 2 JavaScript Frameworks.

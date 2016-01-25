@@ -168,13 +168,6 @@
         }
     },
     {
-        "filename": "sample-list.md",
-        "attr": {
-            "data-background": "img/02.jpg",
-            "data-background-size": "cover"
-        }
-    },
-    {
         "filename": "pick-any.md",
         "attr": {
             "data-background": "img/02.jpg",
@@ -225,6 +218,13 @@
     },
     {
         "filename": "learn.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "github.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"
@@ -316,6 +316,20 @@
     },
     {
         "filename": "train.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "sample-list.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "sample-list.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"

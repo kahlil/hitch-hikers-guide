@@ -294,14 +294,14 @@
         }
     },
     {
-        "filename": "learn-js.md",
+        "filename": "learn-se.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"
         }
     },
     {
-        "filename": "learn-se.md",
+        "filename": "learn-js.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"

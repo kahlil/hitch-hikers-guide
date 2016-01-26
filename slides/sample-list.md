@@ -2,6 +2,6 @@
 
 - Angular
 - Ember
-- React + &star;ux
+- React + Flux / Redux
 - Meteor
 - Vue.js

@@ -5,10 +5,8 @@ The people.
 Note:
 Henning
 
-Frameworks are not mythical beings born in some distant nebula, they are the hard
-work of people. Developers like you!
-They are part of a community that are most likely interested in helping you. So ask
-for help on Slack, Discourse, IRC or whatever channel the framework uses.
-In many cases there is very good access directly to the core team members.
-
-HELP: What else to say about this?
+- fw not mytical
+- built by people
+- part of community
+- ask for help
+- good access to core

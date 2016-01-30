@@ -168,6 +168,13 @@
         }
     },
     {
+        "filename": "1st-step.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "pick-any.md",
         "attr": {
             "data-background": "img/02.jpg",
@@ -176,13 +183,6 @@
     },
     {
         "filename": "deciding-factors.md",
-        "attr": {
-            "data-background": "img/02.jpg",
-            "data-background-size": "cover"
-        }
-    },
-    {
-        "filename": "1st-step.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"

@@ -5,11 +5,11 @@ Get off!!!
 Note:
 Henning
 
-- lots of noise - hype
+- lots of noise
 - very tempting to follow along
 - fear of being left behind
 - twitter, hacker news, etc
-- industry evolves fast
 - prevents focusing in-depth
-- take a deep breath and let go
+- industry evolves fast
+- deep breath, get off hype train
 - if important will stick around

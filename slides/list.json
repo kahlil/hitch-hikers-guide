@@ -336,13 +336,6 @@
         }
     },
     {
-        "filename": "sample-list.md",
-        "attr": {
-            "data-background": "img/02.jpg",
-            "data-background-size": "cover"
-        }
-    },
-    {
         "filename": "questions.md",
         "attr": {
             "data-background": "img/02.jpg",

@@ -6,5 +6,5 @@ Note:
 Henning
 
 - no shortcut here
-- most likely not technical learning
-- we have pointers for where to look
+- likely not technical learning
+- pointers for where to look

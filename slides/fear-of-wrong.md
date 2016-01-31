@@ -10,4 +10,4 @@ Henning
 - info freely available
 - no guarantee fw will live
 - let go of fear
-- changes is only const
+- change is only constant

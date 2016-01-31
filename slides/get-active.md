@@ -6,9 +6,10 @@ Hang out in the chats. Be a part of the community.
 Note:
 Henning
 
-- common pattern - education
+- common thread - education, learning
 - why become active
 - try to speak - deeper understanding
 - business demonstrates value of education
+- business shows care for community
 - access to talent pool
 - conferences next step

@@ -1,3 +1,3 @@
 ## Join The chats
 
-Go on Slack, IRC, Github, see how the community interacts.
+Go on Slack, IRC, Gitter, see how the community interacts.

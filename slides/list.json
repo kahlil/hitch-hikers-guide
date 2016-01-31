@@ -70,6 +70,13 @@
         }
     },
     {
+        "filename": "answer.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "42.md",
         "attr": {
             "data-background": "img/02.jpg",
@@ -273,6 +280,13 @@
         }
     },
     {
+        "filename": "use-2-choose.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "you-chose.md",
         "attr": {
             "data-background": "img/02.jpg",
@@ -329,7 +343,7 @@
         }
     },
     {
-        "filename": "sample-list.md",
+        "filename": "questions.md",
         "attr": {
             "data-background": "img/02.jpg",
             "data-background-size": "cover"

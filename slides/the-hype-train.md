@@ -9,7 +9,7 @@ Henning
 - very tempting to follow along
 - fear of being left behind
 - twitter, hacker news, etc
-- industry evolves fast
 - prevents focusing in-depth
+- industry evolves fast
 - deep breath, get off hype train
 - if important will stick around

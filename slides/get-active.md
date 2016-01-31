@@ -6,10 +6,10 @@ Hang out in the chats. Be a part of the community.
 Note:
 Henning
 
-- common thread - education, learning
+- common thread - edu+learning
 - why become active
-- try to speak - deeper understanding
-- business demonstrates value of education
-- business shows care for community
+- speak-deeper understanding
+- business value of education
+- corp shows care 4 community
 - access to talent pool
 - conferences next step

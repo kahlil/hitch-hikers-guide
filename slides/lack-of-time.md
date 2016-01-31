@@ -6,5 +6,6 @@ Note:
 Henning
 
 - no shortcut here
-- likely not technical learning
+- surprise: time spent probably
+  with non-technical learning
 - pointers for where to look

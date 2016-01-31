@@ -7,4 +7,5 @@ Henning
 
 - staggering number of choices
 - frequent new and shiny
-- choice paralysys
+- jokes about it
+- choice paralysis

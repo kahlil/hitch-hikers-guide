@@ -6,3 +6,5 @@ also
 
 Note:
 Kahlil
+
+- a podcast in which we interview developers about their programmer origin stories

@@ -4,7 +4,6 @@ Don't fear.
 
 Note:
 Henning
-
 - right tool for job
 - answer not always technical
 - info freely available

@@ -1,6 +1,6 @@
 ##  Fear Of Wrong
 
-Don't fear.
+Don't fear. <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

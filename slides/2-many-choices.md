@@ -1,6 +1,6 @@
 ##  2 Many Choices
 
-May lead 2 choice paralysis
+May lead 2 choice paralysis. <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

@@ -1,6 +1,6 @@
 ##  4getting The Soul Of The Code
 
-The people.
+The people. <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

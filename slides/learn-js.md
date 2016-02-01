@@ -1,6 +1,6 @@
 ## Learn JavaScript Deeply
 
-You Don't Know JS 😜
+You Don't Know JS 😜 <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

@@ -1,6 +1,6 @@
 ##  Lack Of Tech Knowledge
 
-ES6, Transpilers, Minifiers, Reactive Programming, etc...
+ES6, Transpilers, Minifiers, Reactive Programming, etc... <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

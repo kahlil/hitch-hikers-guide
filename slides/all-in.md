@@ -1,6 +1,6 @@
 # Go. All. In.
 
-Go deep. <!-- .element: class="fragment" data-fragment-index="0" -->
+Go deep.
 
 Note:
 Henning

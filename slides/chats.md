@@ -1,6 +1,6 @@
 ## Join The chats
 
-Go on Slack, IRC, Gitter, see how the community interacts. <!-- .element: class="fragment" data-fragment-index="0" -->
+Go on Slack, IRC, Gitter, see how the community interacts.
 
 Note:
 

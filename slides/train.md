@@ -1,7 +1,7 @@
 ## Train Your Devs
 
-Make them great JavaScript devs and great at working with the framework. <!-- .element: class="fragment" data-fragment-index="0" -->
-Have a trainings-pipeline so new devs can be productive quickly. <!-- .element: class="fragment" data-fragment-index="0" -->
+Make them great JavaScript devs and great at working with the framework.
+Have a trainings-pipeline so new devs can be productive quickly.
 
 Note:
 Henning

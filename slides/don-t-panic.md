@@ -1,6 +1,6 @@
 #  Don&#39;t Panic
 
-Enter the guide. <!-- .element: class="fragment" data-fragment-index="0" -->
+Enter the guide. 
 
 Note:
 Kahlil

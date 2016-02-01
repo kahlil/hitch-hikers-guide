@@ -1,6 +1,6 @@
 ## Learn The Framework Deeply
 
-Do everything the `${frameworkName}` way. <!-- .element: class="fragment" data-fragment-index="0" -->
+Do everything the `${frameworkName}` way.
 
 Note:
 Henning

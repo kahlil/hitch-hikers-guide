@@ -1,6 +1,6 @@
 ##  Instead:
 
-The Path™ <!-- .element: class="fragment" data-fragment-index="0" -->
+The Path™
 
 Note:
 Kahlil -> Henning

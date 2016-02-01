@@ -1,6 +1,6 @@
 ##  More Narrowing Down
 
-Narrow down the choice via the broader constraints. <!-- .element: class="fragment" data-fragment-index="0" -->
+Narrow down the choice via the broader constraints.
 
 Note:
 

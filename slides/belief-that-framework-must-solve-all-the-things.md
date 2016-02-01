@@ -1,6 +1,6 @@
 ##  Belief That Framework Must Solve All The Things
 
-It's all just JavaScript + software engineering. <!-- .element: class="fragment" data-fragment-index="0" -->
+It's all just JavaScript + software engineering.
 
 Note:
 Henning -> Kahlil

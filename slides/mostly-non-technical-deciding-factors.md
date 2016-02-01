@@ -1,6 +1,6 @@
 ##  Mostly Non-Technical Deciding Factors
 
-Like: what are your feelz? <!-- .element: class="fragment" data-fragment-index="0" -->
+Like: what are your feelz?
 
 Note:
 Kahlil

@@ -1,6 +1,6 @@
 ## Watch Conference Talks
 
-Learn about how they are run, how does the project interact with the community? <!-- .element: class="fragment" data-fragment-index="0" -->
+Learn about how they are run, how does the project interact with the community?
 
 Note:
 

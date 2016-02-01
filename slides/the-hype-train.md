@@ -1,6 +1,6 @@
 ##  The Hype Train
 
-Get off!!! <!-- .element: class="fragment" data-fragment-index="0" -->
+Get off!!!
 
 Note:
 Henning

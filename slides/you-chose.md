@@ -1,6 +1,6 @@
 # You Chose!
 
-What now? <!-- .element: class="fragment" data-fragment-index="0" -->
+What now?
 
 Note:
 Henning

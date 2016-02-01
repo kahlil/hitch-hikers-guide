@@ -1,6 +1,6 @@
 ## Learn The Software Engineering Principles Of Framework
 
-Most likely they're old. <!-- .element: class="fragment" data-fragment-index="0" -->
+Most likely they're old.
 
 Note:
 Henning

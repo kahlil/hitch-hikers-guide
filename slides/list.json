@@ -168,6 +168,20 @@
         }
     },
     {
+        "filename": "claim.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "filename": "building-blocks.md",
+        "attr": {
+            "data-background": "img/02.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
         "filename": "mature-frameworks.md",
         "attr": {
             "data-background": "img/02.jpg",

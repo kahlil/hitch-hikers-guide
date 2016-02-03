@@ -6,6 +6,5 @@ Note:
 Henning
 
 - staggering number of choices
-- frequent new and shiny
-- jokes about it
-- choice paralysis
+- closer look
+- quickly distil to handfull

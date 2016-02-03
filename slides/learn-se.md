@@ -6,8 +6,8 @@ Note:
 Henning
 
 - learn fundamentals
-- fw come and go, fundamentals stay
+- tech come and go, fundam stay
 - will help you learn faster
-- learn to use fw in the right way
+- learn to use fw the right way
 - easier switch if needed
 - old = 1930, 1950

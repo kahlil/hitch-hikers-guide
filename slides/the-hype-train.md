@@ -5,11 +5,6 @@ Get off!!!
 Note:
 Henning
 
-- lots of noise
-- very tempting to follow along
-- fear of being left behind
-- twitter, hacker news, etc
-- prevents focusing in-depth
-- industry evolves fast
-- deep breath, get off hype train
-- if important will stick around
+- there is a lot of noise around new things happening in JavaScript
+- get off the hype train
+- rest assured the important stuff will bubble up

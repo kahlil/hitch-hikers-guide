@@ -1,6 +1,6 @@
 ##  Lack Of Time
 
-You'll have to take it. <!-- .element: class="fragment" data-fragment-index="0" -->
+You'll have to make time. <!-- .element: class="fragment" data-fragment-index="0" -->
 
 Note:
 Henning

@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kahlil/hitchhikers-guide.git"
+    "url": "git@github.com:kahlil/hitch-hikers-guide.git"
   },
   "scripts": {
     "test": "grunt test",

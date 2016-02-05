@@ -1,6 +1,6 @@
 and
 
-![](/img/reactive.jpg)
+![](img/reactive.jpg)
 
 [http://reactive.audio](http://reactive.audio)
 

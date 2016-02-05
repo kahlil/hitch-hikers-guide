@@ -1,6 +1,6 @@
 also
 
-![](/img/descriptive.png)
+![](img/descriptive.png)
 
 [http://descriptive.audio](http://descriptive.audio)
 

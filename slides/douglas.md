@@ -1,5 +1,5 @@
 
-![](/img/douglas.jpg)
+![](img/douglas.jpg)
 
 ## Douglas Adams
 
